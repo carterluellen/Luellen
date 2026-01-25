@@ -1,7 +1,11 @@
-name: "little-book-of-RStudio-websites"
+name: "carter luellen"
 output:
   html_document:
     theme: Midnight
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme
+
+title: [Carter Luellen]
+tagline: []
+description: []
