@@ -8,4 +8,6 @@ plugins:
 
 title: Carter Luellen
 tagline: B.S. Astrobiology
-description: Chemical R & D
+description: Chemical Research & Development
+
+show_downloads: "true"
