@@ -2,4 +2,8 @@
 
 Chemical Special Topics repository and Research Compendium.
 
+Downloads provide past works.
+
+work in progress
+
 Copyright © 2026 Carter Luellen. All rights reserved.
