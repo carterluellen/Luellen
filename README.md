@@ -6,4 +6,11 @@ Downloads provide all past works.
 
 work in progress
 
+No current personal projects.
+
+Active Laboratories:
+Inorganic Cationic Synthesis Research Lab
+Extra-ceullar Matrix Biology Research Lab
+(Processing) Palmer Space Biology Research Lab
+
 Copyright © 2026 Carter Luellen. All rights reserved.
