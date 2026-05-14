@@ -6,7 +6,9 @@ Downloads provide all past works.
 
 work in progress
 
-No current personal projects.
+Personal Projects:
+Synthesis reduction of Me3NH B11H14 into carbocationic pure form
+Human Gastrointestinal Organoid passaging for mycoplasma research
 
 Active Laboratories:
 Inorganic Cationic Synthesis Research Lab
