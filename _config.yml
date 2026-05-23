@@ -12,3 +12,5 @@ description: Chemical Research & Development
 
 show_downloads: "true"
 
+kramdown:
+  hard_wrap: true
