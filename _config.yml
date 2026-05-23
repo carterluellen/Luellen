@@ -3,6 +3,10 @@ tagline: B.S. Astrobiology
 description: Chemical | Biological Research & Development
 show_downloads: true
 
+author:
+  social:
+    download: ""
+
 remote_theme: hydecorp/hydejack@v9
 
 plugins:
