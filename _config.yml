@@ -1,7 +1,13 @@
 name: "carter luellen"
+title: Carter Luellen
+tagline: B.S. Astrobiology
+description: Chemical Research & Development
+show_downloads: "true"
+
+kramdown:
+  hard_wrap: true
+  
 output:
-  html_document:
-    theme: Midnight
 remote_theme: hydecorp/hydejack@v9
 plugins:
   - jekyll-remote-theme
@@ -12,11 +18,8 @@ gem "github-pages", group: :jekyll_plugins
 gem "jekyll-remote-theme"
 gem "jekyll-include-cache"
 
-kramdown:
-  hard_wrap: true
 
-title: Carter Luellen
-tagline: B.S. Astrobiology
-description: Chemical Research & Development
 
-show_downloads: "true"
+
+
+
