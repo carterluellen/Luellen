@@ -1,31 +1,10 @@
 title: Carter Luellen
-tagline: "B.S. Astrobiology - Chemistry"
-description: "Chemical | Biological Research & Development"
-
+email: your@email.com
 baseurl: "/Luellen"
 url: "https://carterluellen.github.io"
 
-remote_theme: hydecorp/hydejack@v9
+markdown: kramdown
 
 plugins:
-  - jekyll-include-cache
-
-show_downloads: false
-invert_sidebar: true
-
-accent_image: /Luellen/assets/IMG_1995.jpeg
-
-sass:
-  style: compressed
-
-menu:
-  - title: Home
-    url: /
-  - title: About
-    url: /about/
-  - title: Research
-    url: /research/
-  - title: Contact
-    url: /contact/
-
+  - jekyll-feed
 
