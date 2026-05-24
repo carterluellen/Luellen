@@ -1,25 +1,10 @@
-/* Main content background only */
+---
+---
+
+@import "hydejack";
+
 .content,
 .page,
 #_main {
   background-image: url('/assets/M._haemofelis_IP2011.jpg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-}
-
-/* Make content containers transparent so image shows through */
-.page__content,
-.content__inner-wrap,
-main {
-  background: transparent !important;
-}
-
-/* OPTIONAL: keep sidebar separate */
-.sidebar,
-.sidebar-bg {
-  background-image: url('/assets/sidebar-image.jpg') !important;
-  background-size: cover;
-  background-position: center;
 }
