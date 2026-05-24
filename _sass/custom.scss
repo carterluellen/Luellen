@@ -1,13 +1,3 @@
-.content {
-  background-image: url('/assets/IMG_1995.jpg');
+.custom-home-bg {
+  background-image: url('/assets/IMG_1995.jpeg') !important;
   background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-}
-
-.page,
-.page__content,
-.content__inner-wrap {
-  background: transparent !important;
-}
