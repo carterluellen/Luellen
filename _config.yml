@@ -1,31 +1,15 @@
 title: Carter Luellen
-tagline: B.S. Astrobiology - Chemistry
-description: Chemical | Biological Research & Development
+tagline: "B.S. Astrobiology - Chemistry"
+description: "Chemical | Biological Research & Development"
 show_downloads: true
 invert_sidebar: true
-hydejack:
-no_inline_css: false
-  plugins:
-  - jekyll-include-cache
 
-sass:
-  style: compressed
+baseurl: "/Luellen"
+
+hydejack:
+  no_inline_css: false
 
 accent_image: /Luellen/assets/IMG_1993.jpeg
-
-
-author:
-  social:
-    download: "Administrative Communicative Standards at the Florida Institute of Technology.docx.pdf"
-
-remote_theme: hydecorp/hydejack@v9
-
-plugins:
-  - jekyll-remote-theme
-  - jekyll-include-cache
-
-kramdown:
-  hard_wrap: true
 
 
 
