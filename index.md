@@ -1,12 +1,30 @@
 ---
-layout: home
+layout: default
 title: Home
 ---
 
-<div class="hero-overlay">
-  <h1>Carter Luellen</h1>
+<link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
 
-  <p class="hero-subtitle">
-    Astrobiology • Chemistry • Research & Development
-  </p>
+<div class="overlay">
+
+  <nav class="navbar">
+    <h1>Carter Luellen</h1>
+
+    <div class="nav-links">
+      <a href="{{ '/about/' | relative_url }}">About</a>
+      <a href="{{ '/research/' | relative_url }}">Research</a>
+      <a href="{{ '/contact/' | relative_url }}">Contact</a>
+    </div>
+  </nav>
+
+  <section class="hero">
+    <h2>Carter Luellen</h2>
+
+    <p>
+      B.S. Astrobiology — Chemistry
+      <br><br>
+      Chemical • Biological Research & Development
+    </p>
+  </section>
+
 </div>
