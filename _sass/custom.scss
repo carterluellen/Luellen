@@ -1,10 +1,13 @@
----
----
+.content {
+  background-image: url('/assets/IMG_1995');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
 
-@import "hydejack";
-
-.content,
 .page,
-#_main {
-  background-image: url('/assets/M._haemofelis_IP2011.jpg');
+.page__content,
+.content__inner-wrap {
+  background: transparent !important;
 }
