@@ -1,20 +1,45 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
 
-# About Me
+<link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
 
-I am an undergraduate researcher pursuing a B.S. in Astrobiology with a chemistry focus.
+<div class="overlay">
 
-My interests include:
+  <nav class="navbar">
+    <h1>Carter Luellen</h1>
 
-- Chemical synthesis
-- Biological systems
-- Astrobiology
-- Research & development
-- Laboratory instrumentation
-- Computational analysis
+    <div class="nav-links">
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/research/' | relative_url }}">Research</a>
+      <a href="{{ '/contact/' | relative_url }}">Contact</a>
+    </div>
+  </nav>
 
-I am currently pursuing opportunities in laboratory research and scientific development.
+  <div class="content">
+
+    <h1>About Me</h1>
+
+    <p>
+      I am an undergraduate researcher pursuing a B.S. in Astrobiology with a concentration in chemistry.
+    </p>
+
+    <br>
+
+    <p>
+      My interests include chemical synthesis, biological systems, astrobiology, and research & development.
+    </p>
+
+    <ul>
+      <li>Organic chemistry</li>
+      <li>Astrobiology systems</li>
+      <li>Analytical instrumentation</li>
+      <li>Scientific research</li>
+      <li>Laboratory development</li>
+    </ul>
+
+  </div>
+
+</div>
