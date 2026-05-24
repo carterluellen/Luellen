@@ -1,13 +1,13 @@
 title: Carter Luellen
-tagline: B.S. Astrobiology
+tagline: B.S. Astrobiology - Chemistry
 description: Chemical | Biological Research & Development
 show_downloads: true
 
 accent_image: /assets/IMG_1993.jpeg
 
-layout: home
+layout: front
 cover: true
-image: '/assets/IMG_1995.jpg'
+accent_image: /assets/img/IMG_1995.jpeg
 
 author:
   social:
