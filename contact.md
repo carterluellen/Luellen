@@ -1,19 +1,45 @@
 ---
-layout: page
+layout: default
 title: Contact
 permalink: /contact/
 ---
 
-# Contact
+<link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
 
-## Professional Inquiries
+<div class="overlay">
 
-Email: your.email@example.com
+  <nav class="navbar">
+    <h1>Carter Luellen</h1>
 
-GitHub:
+    <div class="nav-links">
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/about/' | relative_url }}">About</a>
+      <a href="{{ '/research/' | relative_url }}">Research</a>
+    </div>
+  </nav>
 
-[github.com/carterluellen](https://github.com/carterluellen)
+  <div class="content">
 
-LinkedIn:
+    <h1>Contact</h1>
 
-Add your LinkedIn here.
+    <p>
+      Professional inquiries:
+    </p>
+
+    <br>
+
+    <p>
+      Email: your@email.com
+    </p>
+
+    <br>
+
+    <p>
+      GitHub:
+      <br>
+      https://github.com/carterluellen
+    </p>
+
+  </div>
+
+</div>
