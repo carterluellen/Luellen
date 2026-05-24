@@ -1,24 +1,44 @@
 ---
-layout: page
+layout: default
 title: Research
 permalink: /research/
 ---
 
-# Research
+<link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
 
-## Current Interests
+<div class="overlay">
 
-- Organic chemistry
-- Astrobiology systems
-- Chemical reduction mechanisms
-- Instrumentation and analytical methods
+  <nav class="navbar">
+    <h1>Carter Luellen</h1>
 
-## Projects
+    <div class="nav-links">
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/about/' | relative_url }}">About</a>
+      <a href="{{ '/contact/' | relative_url }}">Contact</a>
+    </div>
+  </nav>
 
-### Lithium Aluminum Hydride Mechanisms
-Research into hydride reduction pathways and reaction intermediates.
+  <div class="content">
 
-### Biological-Chemical Interface Systems
-Exploration of molecular interactions relevant to astrobiology.
+    <h1>Research</h1>
 
-More publications and research updates coming soon.
+    <h2>Current Interests</h2>
+
+    <ul>
+      <li>Organic reaction mechanisms</li>
+      <li>Lithium aluminum hydride reductions</li>
+      <li>Astrobiological chemistry</li>
+      <li>Analytical chemistry methods</li>
+    </ul>
+
+    <br>
+
+    <h2>Projects</h2>
+
+    <p>
+      Additional projects and publications coming soon.
+    </p>
+
+  </div>
+
+</div>
