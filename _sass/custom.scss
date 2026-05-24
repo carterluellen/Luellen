@@ -1,9 +1,11 @@
 
+---
+---
+
 .content {
   position: relative;
   background: transparent !important;
 }
-
 
 .content::before {
   content: "";
@@ -17,7 +19,6 @@
 
   z-index: -1;
 }
-
 
 .page,
 .page__content,
