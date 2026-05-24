@@ -1,0 +1,54 @@
+---
+---
+
+@import "hydejack";
+
+
+body {
+  background-image: url('/Luellen/assets/IMG_1995.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+
+.page,
+.page__content,
+.content,
+.content__inner-wrap,
+main,
+.sidebar,
+.drawer,
+.card {
+  background: transparent !important;
+}
+
+.content {
+  backdrop-filter: blur(6px);
+  background: rgba(0,0,0,0.35) !important;
+  border-radius: 18px;
+}
+
+
+.hero-overlay {
+  height: 80vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  padding-left: 3rem;
+
+  color: white;
+}
+
+.hero-overlay h1 {
+  font-size: 5rem;
+  margin-bottom: 0.5rem;
+}
+
+.hero-subtitle {
+  font-size: 1.5rem;
+  opacity: 0.9;
+}
