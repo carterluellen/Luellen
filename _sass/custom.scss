@@ -1,17 +1,25 @@
+/* Main content background only */
+.content,
+.page,
+#_main {
+  background-image: url('/assets/M._haemofelis_IP2011.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
 
-  <style>
-  /* 1. Target the absolute root background element */
-  .hy-sidebar ~ .page {
-    background: transparent !important;
-  }
+/* Make content containers transparent so image shows through */
+.page__content,
+.content__inner-wrap,
+main {
+  background: transparent !important;
+}
 
-  /* 2. Bind the background structure to the global application wrapper */
-  body, #_content {
-    background-image: url('/assets/M._haemofelis_IP2011.jpg') !important;
-    background-size: cover !important;
-    background-position: center center !important;
-    background-repeat: no-repeat !important;
-    background-attachment: fixed !important;
-    min-height: 100vh;
-  }
-</style>
+/* OPTIONAL: keep sidebar separate */
+.sidebar,
+.sidebar-bg {
+  background-image: url('/assets/sidebar-image.jpg') !important;
+  background-size: cover;
+  background-position: center;
+}
