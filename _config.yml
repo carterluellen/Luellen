@@ -1,16 +1,21 @@
 title: Carter Luellen
 tagline: "B.S. Astrobiology - Chemistry"
 description: "Chemical | Biological Research & Development"
-show_downloads: true
-invert_sidebar: true
 
 baseurl: "/Luellen"
+
+remote_theme: hydecorp/hydejack@v9
+
+plugins:
+  - jekyll-include-cache
+
+show_downloads: true
+invert_sidebar: true
 
 hydejack:
   no_inline_css: false
 
 accent_image: /Luellen/assets/IMG_1993.jpeg
-
 
 
 
