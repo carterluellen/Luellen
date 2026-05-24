@@ -1,10 +1,10 @@
-/* Main content area */
+
 .content {
   position: relative;
   background: transparent !important;
 }
 
-/* Create image layer behind content */
+
 .content::before {
   content: "";
   position: fixed;
@@ -18,7 +18,7 @@
   z-index: -1;
 }
 
-/* Remove Hydejack white panels */
+
 .page,
 .page__content,
 .content__inner-wrap,
