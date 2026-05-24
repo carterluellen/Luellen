@@ -7,7 +7,7 @@ invert_sidebar: true
 accent_image: /assets/IMG_1995.jpeg
 
 layout: front
-accent_image: none
+accent_image: /assets/IMG_1993.jpeg
 body_class: custom-home-bg
 
 author:
