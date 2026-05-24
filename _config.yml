@@ -5,12 +5,9 @@ show_downloads: true
 
 accent_image: /assets/IMG_1993.jpeg
 
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      image: '/assets/IMG_1995.jpg'
+layout: home
+cover: true
+image: '/assets/IMG_1995.jpg'
 
 author:
   social:
