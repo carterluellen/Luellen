@@ -1,20 +1,6 @@
 title: Carter Luellen
 tagline: "B.S. Astrobiology - Chemistry"
 description: "Chemical | Biological Research & Development"
-menu:
-  - title: About
-    url:   /about/
-  - title: Research
-    url:   /research/
-  - title: Contact
-    url:   /contact/
-
-layout: about
-title:  About Me
----
-
-Carter Luellen
-
 baseurl: "/Luellen"
 
 remote_theme: hydecorp/hydejack@v9
@@ -30,6 +16,12 @@ hydejack:
 
 accent_image: /Luellen/assets/IMG_1995.jpeg
 
-
+menu:
+  - title: About
+    url:   /about/
+  - title: Research
+    url:   /research/
+  - title: Contact
+    url:   /contact/
 
 
