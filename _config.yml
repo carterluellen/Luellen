@@ -4,7 +4,12 @@ description: Chemical | Biological Research & Development
 show_downloads: true
 invert_sidebar: true
 hydejack:
-  no_inline_css: false
+no_inline_css: false
+  plugins:
+  - jekyll-include-cache
+
+sass:
+  style: compressed
 
 accent_image: /Luellen/assets/IMG_1993.jpeg
 
