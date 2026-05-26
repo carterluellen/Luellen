@@ -18,7 +18,7 @@ title: Home
   </nav>
 
   <section class="hero">
-    <h2>Carter Luellen</h2>
+    <h2>Carter Monroe Luellen</h2>
 
     <p>
       B.S. Astrobiology — Chemistry
