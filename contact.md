@@ -29,7 +29,7 @@ permalink: /contact/
     <br>
 
     <p>
-      Email: your@email.com
+      Email: carterluellen08@gmail.com
     </p>
 
     <br>
