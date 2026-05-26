@@ -11,6 +11,6 @@ Human Gastrointestinal Organoid passaging for mycoplasmic research applications.
 Active Laboratories:<br>
 Inorganic Cationic Synthesis Research Lab<br>
 Extra-cellular Matrix Biology Research Lab<br>
-(Processing) Palmer Space Biology Research Lab<br>
+Palmer Space Biology Research Lab<br>
 
 Copyright © 2026 Carter Luellen. All rights reserved.<br>
