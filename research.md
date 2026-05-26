@@ -25,10 +25,10 @@ permalink: /research/
     <h2>Current Interests</h2>
 
     <ul>
-      <li>Organic reaction mechanisms</li>
-      <li>Lithium aluminum hydride reductions</li>
-      <li>Astrobiological chemistry</li>
-      <li>Analytical chemistry methods</li>
+      <li>Active passaging and culturing of gastrointestinal organoids acquired from Montana State University for purposes of mycoplasmic research.</li>
+      <li>Synthesis of new boron cage inorganic molecules.</li>
+      <li>Space biological research involving plant biochemistry and martian regolith.</li>
+      <li>Laboratory instrumentation in BSL-2 and nuclear magnetic reasonance.</li>
     </ul>
 
     <br>
@@ -36,7 +36,7 @@ permalink: /research/
     <h2>Projects</h2>
 
     <p>
-      Additional projects and publications coming soon.
+      Additional publications coming soon.
     </p>
 
   </div>
