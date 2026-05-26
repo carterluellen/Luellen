@@ -37,7 +37,15 @@ permalink: /contact/
     <p>
       GitHub:
       <br>
-      https://github.com/carterluellen
+      https://carterluellen.github.io/Luellen/
+    </p>
+
+      <br>
+
+    <p>
+      Phone:
+      <br>
+     +1 (251)-366-8785
     </p>
 
   </div>
