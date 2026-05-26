@@ -29,14 +29,14 @@ permalink: /about/
     <br>
 
     <p>
-      My interests include chemical synthesis, biological systems, astrobiology, and research & development.
+      My research & development subjects include: Inorganic Pyrophoric synthesis, Matrix Biological culturing, Plant biochemistry, and Space biology.
     </p>
 
     <ul>
-      <li>Organic chemistry</li>
-      <li>Astrobiology systems</li>
-      <li>Analytical instrumentation</li>
-      <li>Scientific research</li>
+      <li>Inorganic Chemistry</li>
+      <li>Space Biology</li>
+      <li>Matrix Biology</li>
+      <li>Protein Chemistry</li>
       <li>Laboratory development</li>
     </ul>
 
