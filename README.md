@@ -2,8 +2,6 @@
 
 Chemical Special Topics and Space Science repository | Research Compendium.<br>
 
-Downloads provide all past works.<br>
-
 Personal Projects:<br>
 Reduction of [Me3NH][B11H14] into pure form is complete. Synthesis of [Me3NH][CHB12H12] underway.<br>
 Human Gastrointestinal Organoid passaging for mycoplasmic research applications.<br>
