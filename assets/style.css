@@ -1,5 +1,18 @@
 * {
 
+  .body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+
+  background-image: url('/Luellen/assets/IMG_2026.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+
+  min-height: 100vh;
+}
+
 .navbar {
   width: 100%;
   padding: 25px 50px;
@@ -8,7 +21,6 @@
   justify-content: space-between;
   align-items: center;
   
-background-image: url('/Luellen/assets/IMG_2026.jpeg');
   background: rgba(0,0,0,0.5);
   backdrop-filter: blur(6px);
 }
