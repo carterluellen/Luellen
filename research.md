@@ -2,6 +2,7 @@
 layout: default
 title: Research
 permalink: /research/
+image: /assets/IMG_1995.jpeg
 ---
 
 <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
