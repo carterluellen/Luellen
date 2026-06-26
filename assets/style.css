@@ -13,11 +13,9 @@
   background-position: center;
   background-attachment: fixed;
   background-repeat: no-repeat;
-
   min-height: 100vh;
-}
 
-body[data-url="/research/"] {
+  body[data-url="/research/"] {
     background-image: url("/assets/IMG_1993.jpeg");
 }
 
@@ -28,6 +26,9 @@ body[data-url="/about/"] {
 body[data-url="/contact/"] {
     background-image: url("/assets/x10000-1 matrigel control 6.24.26.tif");
 }
+}
+
+
 
 .navbar {
   width: 100%;
