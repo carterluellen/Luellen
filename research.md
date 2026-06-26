@@ -25,10 +25,9 @@ permalink: /research/
     <h2>Current Interests</h2>
 
     <ul>
-      <li>Active passaging and culturing of gastrointestinal organoids acquired from Montana State University for purposes of mycoplasmic research.</li>
-      <li>Synthesis of new boron cage inorganic molecules.</li>
-      <li>Space biological research involving plant biochemistry and martian regolith.</li>
-      <li>Laboratory instrumentation in BSL-2 and nuclear magnetic reasonance.</li>
+      <li>Active passaging and culturing of gastrointestinal organoids acquired from Montana State University and gastrogel polymerization.</li>
+      <li>Space biological research involving plant biochemistry.</li>
+      <li>Laboratory instrumentation in BSL-2 and Scanning Electron Microscopy.</li>
     </ul>
 
     <br>
