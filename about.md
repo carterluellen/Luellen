@@ -2,7 +2,7 @@
 layout: default
 title: About
 permalink: /about/
-image: /assets/img/1995.jpeg
+image: /assets/img/1993.jpeg
 ---
 
 <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
