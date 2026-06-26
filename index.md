@@ -23,7 +23,7 @@ title: Home
     <p>
       B.S. Astrobiology — Chemistry
       <br><br>
-      Chemical • Biological Research & Development
+      Biological • Biochemical Research
     </p>
   </section>
 
