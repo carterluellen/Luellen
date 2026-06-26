@@ -29,11 +29,10 @@ permalink: /about/
     <br>
 
     <p>
-      My research & development subjects include: Inorganic Pyrophoric synthesis, Matrix Biological culturing, Plant biochemistry, and Space biology.
+      My research & development subjects include: Matrix Biological Gastrogel Research, Space biology and Plant Biochemistry.
     </p>
 
     <ul>
-      <li>Inorganic Chemistry</li>
       <li>Space Biology</li>
       <li>Matrix Biology</li>
       <li>Protein Chemistry</li>
