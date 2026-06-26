@@ -2,6 +2,7 @@
 layout: default
 title: Contact
 permalink: /contact/
+image: /assets/x10000-1 matrigel control 6.24.26.tif
 ---
 
 <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
