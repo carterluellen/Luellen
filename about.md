@@ -30,14 +30,14 @@ image: /assets/IMG_1993.jpeg
     <br>
 
     <p>
-      My research & development subjects include: Matrix Biological Gastrogel Research, Space biology and Plant Biochemistry.
+      My research & development subjects include: Matrix Biological Research, Space Ecological Research.
     </p>
 
     <ul>
       <li>Space Biology</li>
       <li>Matrix Biology</li>
       <li>Protein Chemistry</li>
-      <li>Laboratory development</li>
+      <li>Space Ecology</li>
     </ul>
 
   </div>
