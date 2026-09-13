@@ -23,7 +23,7 @@ title: Home
     <p>
       B.S. Astrobiology — Chemistry
       <br><br>
-      Space Ecology • Biochemical Research
+      Interdisciplinary • Space Ecology | Bio-matrix | Chemical Synthesis
     </p>
   </section>
 
