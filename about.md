@@ -36,7 +36,7 @@ image: /assets/IMG_1993.jpeg
     <ul>
       <li>Space Biology</li>
       <li>Matrix Biology</li>
-      <li>Protein Chemistry</li>
+      <li>Chemical Synthesis</li>
       <li>Space Ecology</li>
     </ul>
 
