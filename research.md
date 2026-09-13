@@ -26,9 +26,10 @@ image: /assets/IMG_1995.jpeg
     <h2>Current Interests</h2>
 
     <ul>
-      <li>Active passaging and culturing of gastrointestinal organoids acquired from Montana State University and gastrogel polymerization.</li>
-      <li>Space biological research involving plant biochemistry.</li>
-      <li>Laboratory instrumentation in BSL-2 and Scanning Electron Microscopy.</li>
+      <li>Collagenase & Gastrogel research.</li>
+      <li>Microbiological molecular research.</li>
+      <li>Biophysiological Scanning Electron Microscopy.</li>
+      <li>Alchemical Synthesis.</li>
     </ul>
 
     <br>
