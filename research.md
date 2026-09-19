@@ -34,7 +34,7 @@ image: /assets/IMG_1995.jpeg
 
     <br>
 
-    <h2>Projects</h2>
+    <h2>Releases</h2>
 
     <p>
     H. pylori infection does not increase matrix metalloproteinase activity of human gastric organoids <br>
