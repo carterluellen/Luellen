@@ -12,9 +12,10 @@ description: Selected research in human gastric organoid models, extracellular m
 </section>
 
 <section class="section-wrap research-overview">
-  <div class="research-image">
-    <img src="{{ '/assets/IMG_1995.jpeg' | relative_url }}" alt="Microscopy image associated with extracellular matrix research">
-    <span>MICROSTRUCTURE · IMAGING</span>
+  <div class="research-visual" role="img" aria-label="Research themes: extracellular matrix, organoid models, and microscopy">
+    <div class="visual-topline"><span>RESEARCH THEMES</span><span>01 — 03</span></div>
+    <div class="visual-word">Structure<span>.</span><br>Function<span>.</span><br>Environment<span>.</span></div>
+    <div class="visual-bottom"><span>EXTRACELLULAR MATRIX</span><span>ORGANOID MODELS</span><span>MICROSCOPY</span></div>
   </div>
   <div class="research-overview-copy">
     <p class="eyebrow">Research approach</p>
