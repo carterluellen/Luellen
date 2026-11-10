@@ -1,39 +1,26 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#101b24">
-    <meta name="description" content="{{ page.description | default: 'Research portfolio of Carter Luellen — astrobiology, chemistry, matrix biology, and space science.' | escape }}">
-    <title>{% if page.title and page.title != "Home" %}{{ page.title | escape }} · {% endif %}{{ site.title | escape }}</title>
-    <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}?v=20261110">
-  </head>
-  <body>
-    <header class="site-header">
-      <div class="nav-shell">
-        <a class="brand" href="{{ '/' | relative_url }}" aria-label="Carter Luellen home">
-          <span class="brand-mark">CL<span>.</span></span>
-          <span class="brand-name">Carter Luellen</span>
-        </a>
-        <nav class="site-nav" aria-label="Main navigation">
-          <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Overview</a>
-          <a href="{{ '/research/' | relative_url }}"{% if page.url contains '/research' %} aria-current="page"{% endif %}>Research</a>
-          <a href="{{ '/about/' | relative_url }}"{% if page.url contains '/about' %} aria-current="page"{% endif %}>About</a>
-          <a class="nav-contact" href="{{ '/contact/' | relative_url }}"{% if page.url contains '/contact' %} aria-current="page"{% endif %}>Get in touch <span aria-hidden="true">↗</span></a>
-        </nav>
-      </div>
-    </header>
-
-    <main id="main-content">
-      {{ content }}
-    </main>
-
-    <footer class="site-footer">
-      <div class="footer-inner">
-        <a class="footer-brand" href="{{ '/' | relative_url }}">Carter Luellen</a>
-        <p>Astrobiology · Chemistry · Research</p>
-        <span>© {{ site.time | date: '%Y' }} Carter Luellen</span>
-      </div>
-    </footer>
-  </body>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#14252c">
+<meta name="description" content="{{ page.description | default: 'Research portfolio of Carter Luellen.' | escape }}">
+<title>{% if page.title and page.title != "Home" %}{{ page.title | escape }} · {% endif %}{{ site.title | escape }}</title>
+<style>{% include site-styles.css %}</style>
+</head>
+<body>
+<header class="site-header">
+  <div class="nav-shell">
+    <a class="brand" href="{{ '/' | relative_url }}" aria-label="Carter Luellen home"><span class="brand-mark">CL<span>.</span></span><span>Carter Luellen</span></a>
+    <nav class="site-nav" aria-label="Main navigation">
+      <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Overview</a>
+      <a href="{{ '/research/' | relative_url }}"{% if page.url contains '/research' %} aria-current="page"{% endif %}>Research</a>
+      <a href="{{ '/about/' | relative_url }}"{% if page.url contains '/about' %} aria-current="page"{% endif %}>About</a>
+      <a class="nav-contact" href="{{ '/contact/' | relative_url }}"{% if page.url contains '/contact' %} aria-current="page"{% endif %}>Contact ↗</a>
+    </nav>
+  </div>
+</header>
+<main id="main-content">{{ content }}</main>
+<footer class="site-footer"><div class="footer-inner"><a class="footer-brand" href="{{ '/' | relative_url }}">Carter Luellen</a><p>Astrobiology · Chemistry · Research</p><span>© {{ site.time | date: '%Y' }} Carter Luellen</span></div></footer>
+</body>
 </html>
