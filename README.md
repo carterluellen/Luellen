@@ -1,15 +1,21 @@
-<img width="728" height="90" alt="OH" src="https://github.com/user-attachments/assets/2355f610-5e8b-438e-b2ae-dab97b7dc65a" />
+# Carter Luellen — Research Portfolio
 
-Interdisciplinary Space Biology, Bio-matrix, Chemical | Research Compendium.<br>
+Personal research portfolio covering astrobiology, chemistry, matrix biology, and space science.
 
-Personal Projects:<br>
-Human Organoid Culturing.<br>
-Gastrogel polymerization and decomposition.<br>
-Biophysiological Scanning Electron Microscopy.<br>
+The site is built with **Jekyll** and published through **GitHub Pages**:
 
-Active Laboratories:<br>
-Matrix Biology Research Lab<br>
-Palmer Lab of Space Ecology<br>
-Inorganic Alchemy Research Lab<br>
+https://carterluellen.github.io/Luellen/
 
-Copyright © 2026 Carter Luellen. All rights reserved.<br>
+## Site pages
+- **Overview** — introduction and areas of focus
+- **Research** — selected research abstracts and methods
+- **About** — academic background and research interests
+- **Contact** — professional inquiries
+
+## Project structure
+- `index.md`, `about.md`, `research.md`, `contact.md` — page content
+- `_layouts/default.html` — shared page layout and navigation
+- `assets/style.css` — site styling
+- `assets/` — research and portfolio imagery
+
+© 2026 Carter Luellen.
