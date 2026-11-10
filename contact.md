@@ -2,53 +2,26 @@
 layout: default
 title: Contact
 permalink: /contact/
-image: /assets/x10000-1 matrigel control 6.24.26.tif
+description: Contact Carter Luellen for professional and research inquiries.
 ---
 
-<link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+<section class="page-hero section-wrap">
+  <p class="eyebrow"><span class="eyebrow-line"></span> Contact</p>
+  <h1>Let’s talk about<br><em>good questions.</em></h1>
+  <p class="page-lede">For research, academic, and professional inquiries, email is the best way to reach me.</p>
+</section>
 
-<div class="overlay">
-
-  <nav class="navbar">
-    <h1>Carter Luellen</h1>
-
-    <div class="nav-links">
-      <a href="{{ '/' | relative_url }}">Home</a>
-      <a href="{{ '/about/' | relative_url }}">About</a>
-      <a href="{{ '/research/' | relative_url }}">Research</a>
-    </div>
-  </nav>
-
-  <div class="content">
-
-    <h1>Contact</h1>
-
-    <p>
-      Professional inquiries:
-    </p>
-
-    <br>
-
-    <p>
-      Email: carterluellen08@gmail.com
-    </p>
-
-    <br>
-
-    <p>
-      GitHub:
-      <br>
-      https://carterluellen.github.io/Luellen/
-    </p>
-
-      <br>
-
-    <p>
-      Phone:
-      <br>
-     +1 (251)-366-8785
-    </p>
-
+<section class="section-wrap contact-layout">
+  <div class="contact-panel">
+    <span class="contact-label">PROFESSIONAL INQUIRIES</span>
+    <h2>Get in touch.</h2>
+    <p>I welcome conversations about research, collaboration, and scientific opportunities.</p>
+    <a class="email-link" href="mailto:{{ site.email }}">{{ site.email }} <span aria-hidden="true">↗</span></a>
   </div>
-
-</div>
+  <div class="contact-aside">
+    <p class="eyebrow">Elsewhere</p>
+    <h3>Explore my work.</h3>
+    <a href="https://github.com/carterluellen" target="_blank" rel="noopener noreferrer">GitHub profile <span aria-hidden="true">↗</span></a>
+    <a href="{{ '/' | relative_url }}">Portfolio home <span aria-hidden="true">↗</span></a>
+  </div>
+</section>
