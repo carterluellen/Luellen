@@ -2,37 +2,25 @@
 layout: default
 title: Home
 permalink: /
-description: An interdisciplinary research portfolio exploring biology, chemistry, and the environments beyond Earth.
+description: Carter Luellen — research across biology, chemistry, and astrobiology.
 ---
 
 <section class="hero section-wrap">
-  <div class="hero-copy">
-    <p class="eyebrow"><span class="eyebrow-line"></span> Research portfolio · Astrobiology & chemistry</p>
-    <h1>Understanding life<br>through <em>science</em>.</h1>
-    <p class="hero-lede">I’m Carter Luellen, an undergraduate researcher working across astrobiology, chemistry, and biological systems. My interests center on how complex materials and environments shape biological structure and function.</p>
+  <div>
+    <p class="eyebrow">Carter Luellen &nbsp; / &nbsp; Research portfolio</p>
+    <h1>Biology, chemistry, and the <em>worlds between.</em></h1>
+    <p class="hero-lede">I’m an undergraduate researcher interested in how biological systems interact with the materials and environments around them. My work and interests span matrix biology, organoid models, analytical chemistry, and astrobiology.</p>
     <div class="hero-actions">
-      <a class="button button-primary" href="{{ '/research/' | relative_url }}">Explore my research <span aria-hidden="true">↗</span></a>
-      <a class="text-link" href="{{ '/about/' | relative_url }}">More about me <span aria-hidden="true">→</span></a>
-    </div>
-    <div class="hero-meta">
-      <span><b>01</b> Biological systems</span>
-      <span><b>02</b> Materials & chemistry</span>
-      <span><b>03</b> Space science</span>
+      <a class="button" href="{{ '/research/' | relative_url }}">Explore research <span aria-hidden="true">↗</span></a>
+      <a class="text-link" href="{{ '/about/' | relative_url }}">About me <span aria-hidden="true">→</span></a>
     </div>
   </div>
-  <div class="hero-art" aria-label="Microscopy image from research work">
-    <div class="art-frame">
-      <img src="{{ '/assets/IMG_1995.jpeg' | relative_url }}" alt="Microscopy image from biological materials research">
-      <div class="art-overlay">
-        <span class="art-kicker">A closer look</span>
-        <span class="art-caption">Structure informs function.</span>
-      </div>
-    </div>
-    <div class="art-index"><span>RESEARCH NOTE</span><strong>01 / 03</strong></div>
-    <div class="orbit orbit-one"></div>
-    <div class="orbit orbit-two"></div>
-  </div>
+  <aside class="hero-aside">
+    <span class="aside-label">Research perspective</span>
+    <p>Understanding living systems means looking closely at both the biology and the physical environments that shape it.</p>
+  </aside>
 </section>
+<div class="hero-rule"></div>
 
 <section class="intro-band">
   <div class="section-wrap intro-grid">
@@ -43,33 +31,27 @@ description: An interdisciplinary research portfolio exploring biology, chemistr
 
 <section class="section-wrap focus-section">
   <div class="section-heading">
-    <div>
-      <p class="eyebrow">Areas of focus</p>
-      <h2>Research across disciplines.</h2>
-    </div>
-    <a class="text-link" href="{{ '/research/' | relative_url }}">View research <span aria-hidden="true">→</span></a>
+    <div><p class="eyebrow">Areas of focus</p><h2>Questions across disciplines.</h2></div>
+    <a class="text-link" href="{{ '/research/' | relative_url }}">Selected research <span>→</span></a>
   </div>
   <div class="focus-grid">
     <article class="focus-card">
       <span class="card-number">01 / BIOLOGY</span>
-      <div class="focus-icon icon-cell" aria-hidden="true"><span></span><i></i></div>
-      <h3>Matrix & cell biology</h3>
-      <p>Exploring extracellular matrix structure, biological scaffolds, and model systems for studying tissue organization and remodeling.</p>
-      <a href="{{ '/research/' | relative_url }}">Selected work <span aria-hidden="true">↗</span></a>
+      <h3>Matrix &amp; cell biology</h3>
+      <p>Extracellular matrix structure, gastric organoid models, and the biological processes involved in tissue organization and remodeling.</p>
+      <a href="{{ '/research/' | relative_url }}">View related work <span>↗</span></a>
     </article>
     <article class="focus-card">
       <span class="card-number">02 / CHEMISTRY</span>
-      <div class="focus-icon icon-molecule" aria-hidden="true"><span></span><i></i><b></b></div>
-      <h3>Chemistry & materials</h3>
-      <p>An interest in chemical processes, material properties, and the ways chemistry connects biological and physical systems.</p>
-      <a href="{{ '/about/' | relative_url }}">Background <span aria-hidden="true">↗</span></a>
+      <h3>Chemistry &amp; materials</h3>
+      <p>How chemical processes and material properties connect biological systems with their physical surroundings.</p>
+      <a href="{{ '/about/' | relative_url }}">Academic background <span>↗</span></a>
     </article>
     <article class="focus-card">
       <span class="card-number">03 / ASTROBIOLOGY</span>
-      <div class="focus-icon icon-orbit" aria-hidden="true"><span></span><i></i></div>
-      <h3>Space science</h3>
-      <p>Bringing biological and chemical perspectives to questions about life, habitability, and environments beyond Earth.</p>
-      <a href="{{ '/about/' | relative_url }}">Explore interests <span aria-hidden="true">↗</span></a>
+      <h3>Life beyond Earth</h3>
+      <p>Biological and chemical perspectives on habitability, planetary environments, and the challenges of studying life beyond Earth.</p>
+      <a href="{{ '/about/' | relative_url }}">Research interests <span>↗</span></a>
     </article>
   </div>
 </section>
@@ -79,11 +61,11 @@ description: An interdisciplinary research portfolio exploring biology, chemistr
     <div class="feature-copy">
       <p class="eyebrow">Selected research</p>
       <h2>Investigating the architecture of biological materials.</h2>
-      <p>Recent work has examined human gastric extracellular matrix and organoid models, combining biological assays with scanning electron microscopy to investigate tissue structure and remodeling.</p>
-      <a class="button button-light" href="{{ '/research/' | relative_url }}">Read the research <span aria-hidden="true">↗</span></a>
+      <p>Recent collaborative work has examined human gastric extracellular matrix and organoid models, combining biological assays with scanning electron microscopy to investigate activity and tissue structure.</p>
+      <a class="button" href="{{ '/research/' | relative_url }}">Read the research <span>↗</span></a>
     </div>
     <div class="feature-stat">
-      <span class="stat-label">METHODS & APPROACHES</span>
+      <span class="stat-label">METHODS &amp; MODEL SYSTEMS</span>
       <div class="stat-list">
         <div><strong>SEM</strong><span>Microstructural imaging</span></div>
         <div><strong>ECM</strong><span>Matrix characterization</span></div>
@@ -94,9 +76,6 @@ description: An interdisciplinary research portfolio exploring biology, chemistr
 </section>
 
 <section class="section-wrap closing-cta">
-  <div>
-    <p class="eyebrow">Connect</p>
-    <h2>Good science starts<br>with a good question.</h2>
-  </div>
-  <a class="button button-primary" href="{{ '/contact/' | relative_url }}">Start a conversation <span aria-hidden="true">↗</span></a>
+  <div><p class="eyebrow">Connect</p><h2>Questions are where research begins.</h2></div>
+  <a class="button" href="{{ '/contact/' | relative_url }}">Get in touch <span>↗</span></a>
 </section>
