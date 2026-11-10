@@ -2,13 +2,13 @@
 layout: default
 title: Research
 permalink: /research/
-description: Selected research in human gastric organoid models, extracellular matrix biology, and scanning electron microscopy.
+description: Research in human gastric organoid models, planetary biogeochemical characterization, and Fungal-induced soil remediation.
 ---
 
 <section class="page-hero section-wrap">
-  <p class="eyebrow"><span class="eyebrow-line"></span> Research</p>
-  <h1>From biological questions<br>to <em>measurable structure.</em></h1>
-  <p class="page-lede">Selected work exploring extracellular matrix biology, human gastric organoid models, and microscopy-based characterization.</p>
+  <p class="eyebrow"><span class="eyebrow-line"></span> Releases</p>
+  <h1>From presented <br>or <em>published research.</em></h1>
+  <p class="page-lede">Selected works.</p>
 </section>
 
 <section class="section-wrap research-overview">
