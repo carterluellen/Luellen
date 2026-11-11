@@ -11,20 +11,6 @@ description: Research in human gastric organoid models, planetary biogeochemical
   <p class="page-lede">Selected works.</p>
 </section>
 
-<section class="section-wrap research-overview">
-  <div class="research-visual" role="img" aria-label="Research themes: extracellular matrix, organoid models, and microscopy">
-    <div class="visual-topline"><span>RESEARCH THEMES</span><span>01 — 03</span></div>
-    <div class="visual-word">Structure<span>.</span><br>Function<span>.</span><br>Environment<span>.</span></div>
-    <div class="visual-bottom"><span>EXTRACELLULAR MATRIX</span><span>ORGANOID MODELS</span><span>MICROSCOPY</span></div>
-  </div>
-  <div class="research-overview-copy">
-    <p class="eyebrow">Research approach</p>
-    <h2>Connecting biological function with physical architecture.</h2>
-    <p>My recent research experience has focused on human gastric organoid systems and extracellular matrix scaffolds. These projects use complementary approaches—from biochemical assays to scanning electron microscopy—to investigate biological activity and material structure.</p>
-    <p class="small-note">The abstracts below summarize collaborative work conducted with research colleagues and mentors.</p>
-  </div>
-</section>
-
 <section class="section-wrap publications-section">
   <div class="section-heading">
     <div><p class="eyebrow">Selected abstracts</p><h2>Research releases.</h2></div>
