@@ -7,9 +7,9 @@ The site is built with **Jekyll** and published through **GitHub Pages**:
 https://carterluellen.github.io/Luellen/
 
 ## Site pages
-- **Overview** — introduction and areas of focus
-- **Research** — selected research abstracts and methods
-- **About** — academic background and research interests
+- **Overview** — intro and areas of focus
+- **Research** — research abstracts
+- **About** — about me
 - **Contact** — professional inquiries
 
 ## Project structure
